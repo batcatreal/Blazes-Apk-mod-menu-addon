@@ -1,1 +1,1 @@
-add_yeeps_mod(2-mods src/twomods.cpp)
+   add_yeeps_mod(starter-menu src/menu.cpp)
